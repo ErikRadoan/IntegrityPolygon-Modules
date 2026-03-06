@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id": "ip-blacklist",
+    "name": "IP Blacklist",
+    "version": "1.0.0",
+    "description": "Block connections from blacklisted IP addresses. Manage blocked IPs through the web dashboard.",
+    "author": "ErikRadovan",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon/main/modules/ip-blacklist.jar",
+    "image_url": ""
+  }
+]
+
