@@ -1,7 +1,9 @@
-﻿{
-    "account-protection.jar":  "e349d982e9b839409c849b237dbbf03fe256154a80b865a5e0ef61f4a633b858",
-    "anti-bot.jar":  "d190e803e7943add3b4a1f0a0b271b30be58a85fcc3fb870cc83c0b47a13e53d",
-    "geo-filtering.jar":  "be9e85687f0663f71af6bd0902b67e8e67aba3de0881841a614fbf8c45378f03",
-    "identity-enforcement.jar":  "e297225ab491b4378267823159bdad16610672254eace5e1df78f29a8b6ec6b3",
-    "profiler.jar":  "8887a54f635bd0219b4d5c0626becc5a3233b3a25b445492d99cb6ca29b1ed8e"
+{
+    "account-protection.jar":  "bdad4716811bf974d41638e4017e1f09090829ab446dde5f6d33114635a6b480",
+    "anti-bot.jar":  "8c733cf51c9bb609d228aa5527573ba110d7b395a65fe4b8d3e62785c69ff565",
+    "geo-filtering.jar":  "6dfb304f20ef179c1f4488c08e8ce014f076224622f1b29a8cbdcf171ff461b5",
+    "identity-enforcement.jar":  "3cd12fb8b7a5162f3052ac4f441410c68e676f50f631cc3de1241ec429099752",
+    "profiler.jar":  "f7e47abfd50a5b9cad3dc64ad00caa9dae462058910559ec2f47923d65a48d3f",
+    "server-monitor.jar":  "495c5a5e8b2956ed2e1c2b01a94b42a431933e93926e3f38f4a113e5ad3c641d",
+    "spike-detector.jar":  "720a88934765598688101b5841016044780cac95dd8f86aab3c9e68fc59fa7fe"
 }

@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "description": "Comprehensive bot detection and prevention. Includes rate limiting, flood detection, bot heuristics, handshake validation, and dynamic blocking.",
     "author": "ErikRadovan",
-    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon/main/modules/anti-bot.jar",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/anti-bot.jar",
     "image_url": ""
   },
   {
@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "description": "Staff account security with TOTP two-factor authentication, session IP locking, and enrollment management.",
     "author": "ErikRadovan",
-    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon/main/modules/account-protection.jar",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/account-protection.jar",
     "image_url": ""
   },
   {
@@ -23,7 +23,7 @@
     "version": "1.0.0",
     "description": "VPN, proxy, and suspicious IP detection using proxycheck.io. Blocks anonymized connections with subnet-level caching.",
     "author": "ErikRadovan",
-    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon/main/modules/identity-enforcement.jar",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/identity-enforcement.jar",
     "image_url": ""
   },
   {
@@ -32,7 +32,7 @@
     "version": "1.0.0",
     "description": "Country-based access control using geojs.io geolocation. Supports blacklist and whitelist modes with connection statistics.",
     "author": "ErikRadovan",
-    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon/main/modules/geo-filtering.jar",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/geo-filtering.jar",
     "image_url": ""
   },
   {
@@ -41,7 +41,25 @@
     "version": "1.0.0",
     "description": "Deep JVM profiling for Paper servers — thread sampling with flame graph output, TPS/MSPT, per-plugin CPU attribution, memory & GC analysis. Automatically deploys profiling extender modules.",
     "author": "ErikRadovan",
-    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon/main/modules/profiler.jar",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/profiler.jar",
+    "image_url": ""
+  },
+  {
+    "id": "server-monitor",
+    "name": "Server Monitor",
+    "version": "1.0.0",
+    "description": "Tracks backend server health and performance telemetry from extenders.",
+    "author": "ErikRadovan",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/server-monitor.jar",
+    "image_url": ""
+  },
+  {
+    "id": "spike-detector",
+    "name": "Spike Detector",
+    "version": "1.0.0",
+    "description": "Detects expensive chunks from Paper profiling reports and can auto-mitigate critical lag spikes.",
+    "author": "ErikRadovan",
+    "download_url": "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/spike-detector.jar",
     "image_url": ""
   }
 ]
