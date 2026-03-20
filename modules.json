@@ -1,5 +1,14 @@
 [
     {
+        "id":  "account-protection",
+        "name":  "Account Protection",
+        "version":  "1.0.0",
+        "description":  "Staff account security with TOTP two-factor authentication, session IP locking, and enrollment management.",
+        "author":  "ErikRadovan",
+        "download_url":  "https://raw.githubusercontent.com/ErikRadoan/IntegrityPolygon-Modules/main/modules/account-protection.jar",
+        "image_url":  ""
+    },
+    {
         "id":  "anti-bot",
         "name":  "Anti-Bot",
         "version":  "1.0.0",
