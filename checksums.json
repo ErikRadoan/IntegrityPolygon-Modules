@@ -1,8 +1,8 @@
 {
-    "account-protection.jar":  "797452f96cc7c58eea35afc61f29f5a6cad6ff38deafa5d02f34b1ce798b0d4f",
-    "anti-bot.jar":  "fac02c6d4ebc800fc5009bc590d028b6ae7db0d9d660b940e882a76965e01800",
-    "geo-filtering.jar":  "a1ff11929306503b38ee203d016a7a38bd7171ce0f6b2481e3c17a4c3cd750e9",
-    "identity-enforcement.jar":  "cf68612c8be0ce48384e36c8f570d72246188fd02df56bafbb961c5aeca66cc4",
-    "profiler.jar":  "aba453aabe393be9b63f2335822424339285d14e6dca951a1c98c5e32d4909b7",
+    "account-protection.jar":  "e04009e0a14370ef131c89dbd7f79cc8b64a20a97e3ed95931c64836c475becd",
+    "anti-bot.jar":  "4cb4e650c24da7b68e27c52dc394266d4138513ad39b39176b9d613a6520b1b9",
+    "geo-filtering.jar":  "cdccb45cf9d510331411c4e056059ee4d063bf9908e5a8fc501d58cf028d9998",
+    "identity-enforcement.jar":  "626db2e1673b5c209877b25611aa172caae79f1675ee2bfa310285450173393a",
+    "profiler.jar":  "8e74210b11d450273fc428ed9b5db290da907bf9cfaf7158128eedb491731c1b",
     "spike-detector.jar":  "b3f795c40ac0e934505d2861090a80f72d7b509c2a6f3b7e322a26d7f5847e12"
 }
